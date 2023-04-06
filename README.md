@@ -1,4 +1,4 @@
-# optimze-matrix-instance
+# optimize-matrix-instance
 
 ## 📌 Background 
 
@@ -19,5 +19,5 @@ The following is a description of the problem in the actual scenario:
 
 ## 🥥 Analysis
 
-> The analytical part will be translated later because I'm currently preoccupied with job searching 🥲 . This is the Chinese translation of the analysis portion, and here is the [link](https://blog.neysaban.one/article/7367663c-3a3c-44dd-aae7-db9676c35d09) to my blog.
+> The analytical part will be translated later because I'm currently preoccupied with job searching 🥲 . But the Chinese version of the analysis portion here [link](https://blog.neysaban.one/article/7367663c-3a3c-44dd-aae7-db9676c35d09) to my blog.
 
